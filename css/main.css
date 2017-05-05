@@ -56,11 +56,55 @@ a:hover {
 }
 
 .t1 {
-	font-size: 50px;
+	font-size: 40px;
+	margin: 0 auto;
 }
 
 .filaAbajo {
 	margin-top: 0;
+}
+
+#about {
+	color: white;
+	background-color: #19c3a8;
+	width: 100%;
+	padding: 3%;
+}
+
+.parrafos {
+	text-align: justify;
+	margin-top: 0;
+	font-size: 19px;
+}
+
+.download {
+	text-decoration: none;
+	color: white;
+}
+
+.btn-download {
+	border: 2px solid white;
+    width: 220px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    padding: 3px;
+}
+
+#more .container {
+	color: white;
+	background-color: #2D5D80;
+	width: 100%;
+	margin-top: 3%;
+}
+
+.beforeFooter {
+	text-decoration: none;
+	color: #19c3a8;
+}
+
+.btw-images {
+	padding: 10px;
 }
 
 footer {
